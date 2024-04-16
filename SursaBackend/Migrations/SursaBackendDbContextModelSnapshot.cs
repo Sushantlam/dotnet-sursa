@@ -27,8 +27,9 @@ namespace SursaBackend.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("Time")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Time")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Tutor")
                         .IsRequired()

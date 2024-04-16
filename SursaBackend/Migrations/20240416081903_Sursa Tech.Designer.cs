@@ -11,7 +11,7 @@ using SursaBackend.AppDbContext;
 namespace SursaBackend.Migrations
 {
     [DbContext(typeof(SursaBackendDbContext))]
-    [Migration("20240416063447_Sursa Tech")]
+    [Migration("20240416081903_Sursa Tech")]
     partial class SursaTech
     {
         /// <inheritdoc />
@@ -30,8 +30,9 @@ namespace SursaBackend.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("Time")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Time")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Tutor")
                         .IsRequired()

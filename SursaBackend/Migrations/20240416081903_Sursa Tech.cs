@@ -17,7 +17,7 @@ namespace SursaBackend.Migrations
                 {
                     Id = table.Column<Guid>(type: "TEXT", nullable: false),
                     Course = table.Column<string>(type: "TEXT", nullable: false),
-                    Time = table.Column<int>(type: "INTEGER", nullable: false),
+                    Time = table.Column<string>(type: "TEXT", nullable: false),
                     Tutor = table.Column<string>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>

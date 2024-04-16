@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\.NET API\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|d:\\.net api\\backend\\sursabackend\\migrations\\20240416081903_sursa tech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|solutionrelative:sursabackend\\migrations\\20240416081903_sursa tech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|d:\\.net api\\backend\\sursabackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|solutionrelative:sursabackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|d:\\.net api\\backend\\sursabackend\\models\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|solutionrelative:sursabackend\\models\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|d:\\.net api\\backend\\sursabackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|solutionrelative:sursabackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|d:\\.net api\\backend\\sursabackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|solutionrelative:sursabackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B2587E2-1AE4-4D6D-8598-574FFBEEB1DC}|SursaBackend\\SursaBackend.csproj|d:\\.net api\\backend\\sursabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,32 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240416081903_Sursa Tech.cs",
+              "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Migrations\\20240416081903_Sursa Tech.cs",
+              "RelativeDocumentMoniker": "SursaBackend\\Migrations\\20240416081903_Sursa Tech.cs",
+              "ToolTip": "D:\\.NET API\\backend\\SursaBackend\\Migrations\\20240416081903_Sursa Tech.cs",
+              "RelativeToolTip": "SursaBackend\\Migrations\\20240416081903_Sursa Tech.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:19:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateProduct.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Models\\CreateProduct.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Models\\CreateProduct.cs",
               "ToolTip": "D:\\.NET API\\backend\\SursaBackend\\Models\\CreateProduct.cs",
               "RelativeToolTip": "SursaBackend\\Models\\CreateProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T11:17:21.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\AppDbContext\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SursaBackend\\AppDbContext\\AppDbContext.cs",
-              "ToolTip": "D:\\.NET API\\backend\\SursaBackend\\AppDbContext\\AppDbContext.cs",
-              "RelativeToolTip": "SursaBackend\\AppDbContext\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T09:39:54.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Program.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Program.cs",
@@ -100,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Models\\User.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Models\\User.cs",
@@ -112,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Controllers\\UserController.cs",
@@ -120,24 +124,36 @@
               "RelativeToolTip": "SursaBackend\\Controllers\\UserController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T05:51:01.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T05:51:01.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\.NET API\\backend\\SursaBackend\\Controllers\\ProductController.cs",
               "RelativeToolTip": "SursaBackend\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAcwG8AAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:21:57.96Z"
+              "WhenOpened": "2024-04-15T11:21:57.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SursaBackend\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "D:\\.NET API\\backend\\SursaBackend\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "SursaBackend\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:39:54.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Models\\Login.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Models\\Login.cs",
@@ -149,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\appsettings.json",
               "RelativeDocumentMoniker": "SursaBackend\\appsettings.json",
@@ -161,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SursaBackend.http",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\SursaBackend.http",
               "RelativeDocumentMoniker": "SursaBackend\\SursaBackend.http",
@@ -173,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\.NET API\\backend\\SursaBackend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "SursaBackend\\Controllers\\WeatherForecastController.cs",

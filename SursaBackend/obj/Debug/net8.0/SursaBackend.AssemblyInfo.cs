@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SursaBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d620ae6152e63be69bcb46eef5c6486bee38e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SursaBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SursaBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

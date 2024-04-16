@@ -7,7 +7,7 @@
         public string Course { get; set; }
 
 
-        public int Time { get; set; }
+        public string Time { get; set; }
 
         public string Tutor { get; set; }
     }
