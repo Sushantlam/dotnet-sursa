@@ -1,0 +1,6 @@
+@SursaBackend_HostAddress = http://localhost:5184
+
+GET {{SursaBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
